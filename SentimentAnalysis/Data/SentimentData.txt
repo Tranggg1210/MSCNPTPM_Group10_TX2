@@ -1,0 +1,4 @@
+The service was terrible!,0
+I love this place!,1
+The pizza was awful!,0
+The service is fast!,1
